@@ -1,2 +1,2 @@
-# multithread-house-price-prediction
+# Multithread house price prediction
 Operating Systems course assignment - multithread house price prediction
